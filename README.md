@@ -50,13 +50,6 @@ Run the editor by passing the NBT file as an argument:
 ./nbt_editor path/to/file.dat
 ```
 
-### For Minecraft save files
-
-Common locations for Minecraft save files:
-- Linux: `~/.minecraft/saves/worldname/level.dat`
-- Windows: `%APPDATA%\.minecraft\saves\worldname\level.dat`
-- macOS: `~/Library/Application Support/minecraft/saves/worldname/level.dat`
-
 Player data files can be found in the `playerdata` directory within each world save.
 
 ## Controls
