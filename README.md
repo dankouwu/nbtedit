@@ -83,10 +83,6 @@ Player data files can be found in the `playerdata` directory within each world s
 
 This editor uses the ncurses library for terminal handling and implements the NBT binary format specification directly. The NBT format uses big-endian byte order for numeric values, which is properly handled in the reader/writer functions.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgements
 
 - Minecraft NBT format specification
