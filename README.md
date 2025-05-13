@@ -26,8 +26,8 @@ This is a Text User Interface (TUI) application that allows you to browse, edit,
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/nbt-editor.git
-cd nbt-editor
+git clone https://github.com/dankouwu/nbtedit
+cd nbtedit
 ```
 
 ### Compile the project
